@@ -1,4 +1,4 @@
 # ScottyThomas.github.io
   
-[My Website](https://scottythomas.github.io/)
+[My Website](https://scottthomas.github.io/)
 
